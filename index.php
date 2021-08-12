@@ -70,7 +70,7 @@ https://templatemo.com/tm-563-seo-dream
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="index.html" class="logo">
-              <h4>OMeGaNeS <img src="assets/images/logo-icon.png" alt=""></h4>
+              <h4>Your Server <img src="assets/images/logo-icon.png" alt=""></h4>
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
