@@ -1,1 +1,1 @@
-"# xash-web-status" 
+# xash-web-status
