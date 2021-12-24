@@ -639,7 +639,7 @@ https://templatemo.com/tm-563-seo-dream
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2021 OMeGaNeS All Rights Reserved.
+          <p>Copyright © 2021 Your Server All Rights Reserved.
 
           <br>Web Designed by <a rel="nofollow" href="https://templatemo.com" title="free CSS templates">TemplateMo</a> & <a rel="nofollow" href="https://github.com/bariscodefxy">bariscodefx</a></p>
         </div>
